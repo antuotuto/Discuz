@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "填写补充信息",
+  "usingComponents": {
+    "qui-page": "/components/qui-page/qui-page",
+    "qui-upload-file": "/components/qui-upload-file/qui-upload-file",
+    "qui-icon": "/components/qui-icon/qui-icon",
+    "qui-uploader": "/components/qui-uploader/qui-uploader",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "qui-toast": "/components/qui-toast/qui-toast",
+    "uni-popup-dialog": "/components/uni-popup/uni-popup-dialog"
+  }
+}

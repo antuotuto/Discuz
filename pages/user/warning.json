@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "待审核页",
+  "usingComponents": {
+    "qui-button": "/components/qui-button/qui-button"
+  }
+}

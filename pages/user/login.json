@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "qui-page": "/components/qui-page/qui-page",
+    "qui-login-mode": "/components/qui-login-mode/qui-login-mode",
+    "qui-registration-agreement": "/components/qui-registration-agreement/qui-registration-agreement"
+  }
+}
